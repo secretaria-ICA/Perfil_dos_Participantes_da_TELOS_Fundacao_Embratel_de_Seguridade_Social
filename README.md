@@ -1,14 +1,14 @@
 
-# Título do Trabalho: Perfil dos Participantes da TELOS - Fundação Embratel de Seguridade Social
+# Perfil_dos_Participantes_da_TELOS_Fundação_Embratel_de_Seguridade_Social
 
-#### Aluno: Maísa Gerk (https://github.com/maisagerk/PerfilParticipantes)
-#### Orientadora: Manoela Kohler (https://github.com/maisagerk/PerfilParticipantes) 
+#### Aluno: [Maísa Gerk](https://github.com/maisagerk/PerfilParticipantes)
+#### Orientadora: [Manoela Kohler](https://github.com/maisagerk/PerfilParticipantes) 
 
 ---
 
-Trabalho apresentado ao curso BI MASTER(https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
+Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
-- https://github.com/maisagerk/PerfilParticipantes/blob/main/Perfil_de_Aloca%C3%A7%C3%A3o_dos_Participantes_vfinal.ipynb 
+- [Link para o código](https://github.com/maisagerk/PerfilParticipantes/blob/main/Perfil_de_Aloca%C3%A7%C3%A3o_dos_Participantes_vfinal.ipynb)
 
 ---
 
