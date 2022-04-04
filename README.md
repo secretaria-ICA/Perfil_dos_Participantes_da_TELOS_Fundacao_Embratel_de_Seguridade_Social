@@ -2,7 +2,7 @@
 # Perfil_dos_Participantes_da_TELOS_Fundação_Embratel_de_Seguridade_Social
 
 #### Aluno: [Maísa Gerk](https://github.com/maisagerk/PerfilParticipantes)
-#### Orientadora: [Manoela Kohler](https://github.com/maisagerk/PerfilParticipantes) 
+#### Orientadora: [Manoela Kohler](https://github.com/manoelakohler) 
 
 ---
 
